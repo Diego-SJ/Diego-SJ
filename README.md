@@ -1,5 +1,9 @@
 ## Hi there 👋
-I'm Diego, an IT student but a amateur of web development, especially when it comes to frontend. Some extras are networks and audits. My next learning goals are data science and machine learning. Don't forget "Everyone should learn to program, because it teaches you how to think".
+<p>
+  I'm Diego, an IT student but a amateur of web development, especially when it comes to frontend. Some extras are networks and audits. My next learning goals are data science and machine learning. Don't forget "Everyone should learn to program, because it teaches you how to think".
+  <br/>
+  🌐 Visit my [website](https://www.juandiegosj.site/) for complete background and contact.
+</p>
 
 
 ## Get In Touch
@@ -27,13 +31,11 @@ I'm Diego, an IT student but a amateur of web development, especially when it co
   </a>
 </p>
 
-
+## A Little Experience
 <p>
-  <h2>My Github Stats</h2>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Diego-SJ&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
 
 <p>
-  <h2>A Little Experience</h2>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Javascript-e1ac00?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
