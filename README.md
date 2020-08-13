@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Diego, an IT student but a amateur of web development, especially when it comes to frontend. Some extras are networks and audits. My next learning goals are data science and machine learning. Don't forget "Everyone should learn to program, because it teaches you how to think".
 
 <!--
 **Diego-SJ/Diego-SJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
