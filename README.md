@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-I'm Diego, an IT student but a amateur of web development, especially when it comes to frontend. Some extras are networks and audits. My next learning goals are data science and machine learning. Don't forget "Everyone should learn to program, because it teaches you how to think".
+<p>
+  <p>
+    I'm Diego, an IT student but a amateur of web development, especially when it comes to frontend. Some extras are networks and audits. My next learning goals are data science and machine learning. Don't forget "Everyone should learn to program, because it teaches you how to think".
+  </p>
+  <img align="right" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Diego-SJ&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
+</p>
 
 ## Get In Touch
 
@@ -12,12 +17,6 @@ I'm Diego, an IT student but a amateur of web development, especially when it co
   <a href="https://www.facebook.com/DiegoSalasJ"><img src="https://img.shields.io/badge/facebook-0d8eff.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/diegosalasj/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://api.whatsapp.com/send?phone=+527714152997"><img src="https://img.shields.io/badge/Whatsapp-49e605.svg?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
-</p>
-
-## My Github Stats
-
-<p align = "center">
-  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Diego-SJ&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
 </p>
 
 ## A little experience
