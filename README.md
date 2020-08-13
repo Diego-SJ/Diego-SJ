@@ -33,7 +33,7 @@ I'm Diego, an IT student but a amateur of web development, especially when it co
 
 
 ## A little experience
-<p>
+<p align="right">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Javascript-e1ac00?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
