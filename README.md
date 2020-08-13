@@ -28,11 +28,12 @@ I'm Diego, an IT student but a amateur of web development, especially when it co
 </p>
 
 
-## A little experience
 <p>
+  <h2>My Github Stats</h2>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Diego-SJ&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
 
 <p>
+  <h2>A Little Experience</h2>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Javascript-e1ac00?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
