@@ -10,14 +10,14 @@ I'm Diego, an IT student but a amateur of web development, especially when it co
     <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Sketch-ABE400?style=flat-square&logo=Sketch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Sketch-1ee100?style=flat-square&logo=Sketch&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codeigniter-F55247?style=flat-square&logo=Codeigniter&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Linux-6d6d6d?style=flat-square&logo=Linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Linux-00c687?style=flat-square&logo=Linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Firebase-ffb700?style=flat-square&logo=Firebase&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-123F6D?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Sass-c94cc1?style=flat-square&logo=Sass&logoColor=white"/>
