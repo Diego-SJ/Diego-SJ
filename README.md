@@ -18,11 +18,12 @@ I'm Diego, an IT student but a amateur of web development, especially when it co
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Linux-6d6d6d?style=flat-square&logo=Linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Firebase-ffd943?style=flat-square&logo=Firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Firebase-ffb700?style=flat-square&logo=Firebase&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-123F6D?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Sass-c94cc1?style=flat-square&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Java-FF4366?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Adobe%20Photoshop-05e6ff?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Adobe%20Photoshop-00a6ff?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Adobe%20Xd-ff00b3?style=flat-square&logo=Adobe%20Xd&logoColor=white"/>
   </p>
 
 <!--
