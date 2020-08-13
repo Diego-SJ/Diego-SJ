@@ -17,8 +17,8 @@ I'm Diego, an IT student but a amateur of web development, especially when it co
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Macintosh-A80030?style=flat-square&logo=Macintosh&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Firebase-FFE343?style=flat-square&logo=Firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MacOSX-d2d2d2?style=flat-square&logo=MacOSX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Firebase-ffd943?style=flat-square&logo=Firebase&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-123F6D?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Sass-EE4AE3?style=flat-square&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Java-FF4366?style=flat-square&logo=Java&logoColor=white"/>
