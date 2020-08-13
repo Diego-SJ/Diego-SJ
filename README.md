@@ -2,11 +2,11 @@
 <p>
   <img align="left" width="200" height="200" src="https://github.com/Diego-SJ/Diego-SJ/blob/master/assets/avatar.png"/>
   I'm Diego, an IT student but a amateur of web development, especially when it comes to frontend. Some extras are networks and audits. My next learning goals are data science and machine learning. Don't forget "Everyone should learn to program, because it teaches you how to think".
-  <br/><br/><br/>
+  <br/><br/>
   - 🌐  Visit my <bold><a href="https://www.juandiegosj.site/">website</a></bold> for complete background and contact.
 </p>
 
-
+<br/><br/>
 ## Get In Touch
 <p align = "center">
   <a href="mailto:dsalas035@gmail.com?subject=[GitHub]%20🔥&body=Hi there!">
