@@ -2,7 +2,7 @@
 
 I'm Diego, an IT student but a amateur of web development, especially when it comes to frontend. Some extras are networks and audits. My next learning goals are data science and machine learning. Don't forget "Everyone should learn to program, because it teaches you how to think".
 
-### Get In Touch
+## Get In Touch
 
 <p align = "center">
   <a href="mailto:dsalas035@gmail.com?subject=[GitHub]%20🔥&body=Hi there!"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -14,13 +14,13 @@ I'm Diego, an IT student but a amateur of web development, especially when it co
   <a href="https://api.whatsapp.com/send?phone=+527714152997"><img src="https://img.shields.io/badge/Whatsapp-49e605.svg?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 </p>
 
-### My Github Stats
+## My Github Stats
 
 <p align = "center">
   <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Diego-SJ&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
 </p>
 
-### A little experience
+## A little experience
 
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
