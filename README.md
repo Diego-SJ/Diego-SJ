@@ -28,7 +28,8 @@ I'm Diego, an IT student but a amateur of web development, especially when it co
 </p>
 
 
-<p align="left">
+<p>
+  <p align="left">
   <h2>My Github Stats</h2>
     <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Diego-SJ&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
 </p>
@@ -58,4 +59,5 @@ I'm Diego, an IT student but a amateur of web development, especially when it co
   <img src="https://img.shields.io/badge/-Java-FF4366?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-00a6ff?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Adobe%20Xd-ff00b3?style=flat-square&logo=Adobe%20Xd&logoColor=white"/>
+</p>
 </p>
