@@ -3,19 +3,21 @@
 I'm Diego, an IT student but a amateur of web development, especially when it comes to frontend. Some extras are networks and audits. My next learning goals are data science and machine learning. Don't forget "Everyone should learn to program, because it teaches you how to think".
 
 ### Get In Touch
-<a href="mailto:dsalas035@gmail.com?subject=[GitHub]%20🔥&body=Hi there!">
+
+<p align = "center">
+  <a href="mailto:dsalas035@gmail.com?subject=[GitHub]%20🔥&body=Hi there!">
 <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.instagram.com/diegosalasj/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://medium.com/@diegosj"><img src="https://img.shields.io/badge/Medium.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+<a href="https://medium.com/@diegosj"><img src="https://img.shields.io/badge/medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/juan-diego-sj/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/soydiegosj"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://api.whatsapp.com/send?phone=+527714152997"><img src="https://img.shields.io/badge/Whatsapp-49e605.svg?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+</p>
 
 ### My Github Stats
 
 <p align = "center">
-  <img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Diego-SJ&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-SJ&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true">
+  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Diego-SJ&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
 </p>
 
 ### A little experience
