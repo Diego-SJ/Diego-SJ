@@ -1,8 +1,8 @@
 ## Hi there 👋
 <p>
   I'm Diego, an IT student but a amateur of web development, especially when it comes to frontend. Some extras are networks and audits. My next learning goals are data science and machine learning. Don't forget "Everyone should learn to program, because it teaches you how to think".
-  <br/>
-  🌐 Visit my [website](https://www.juandiegosj.site/) for complete background and contact.
+  <br/><br/><br/>
+  - 🌐  Visit my <bold><a href="https://www.juandiegosj.site/">website</a></bold> for complete background and contact.
 </p>
 
 
