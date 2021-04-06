@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p>
   <img align="right" width="200" height="200" src="https://github.com/Diego-SJ/Diego-SJ/blob/master/assets/avatar.png"/>
-  I'm Diego, an IT student but an amateur of web development, especially when it comes to frontend. Some extras are networks and audits. My next learning goals are data science and machine learning. Don't forget "Everyone should learn to program, because it teaches you how to think".
+  I'm Diego, an amateur of web development, especially when it comes to frontend. Some extras are networks and audits. My next learning goals are data science and machine learning. Don't forget "Everyone should learn to program, because it teaches you how to think".
   <br/><br/>
   - 🌐  Visit my <bold><a href="https://www.juandiegosj.site/">website</a></bold> for complete background and contact.
 </p>
@@ -20,14 +20,8 @@
   <a href="https://twitter.com/soydiegosj">
     <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/DiegoSalasJ">
-    <img src="https://img.shields.io/badge/facebook-0d8eff.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
   <a href="https://www.instagram.com/diegosalasj/">
     <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+527714152997">
-    <img src="https://img.shields.io/badge/Whatsapp-49e605.svg?style=for-the-badge&logo=Whatsapp&logoColor=white"/>
   </a>
 </p>
 
