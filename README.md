@@ -3,7 +3,7 @@
 <p>
   I'm Diego, Frontend web developer, Javascript lover and hobby traveler
   <br/><br/>
-  - 🌐  Visit my <bold><a href="https://www.diegosj.com/">website</a></bold> for complete background and contact.
+  - 🌐  Visit my <bold><a href="https://diegosj.com/">website</a></bold> for complete background and contact.
 </p>
 
 ## Get In Touch
